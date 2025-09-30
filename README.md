@@ -1,1 +1,3 @@
-# -An-lisis-A-B-de-Sistema-de-Recomendaciones-para-Optimizaci-n-de-Conversi-n-en-Tienda-Online-
+### Análisis A/B de Sistema de Recomendaciones para Optimización de Conversión en Tienda Online"
+
+"Este proyecto consistió en realizar un análisis A/B para evaluar el impacto de un nuevo sistema de recomendaciones en el embudo de conversión de una tienda online internacional. Se analizaron tres etapas clave: visualización de productos, agregar al carrito y compra. A través de pruebas estadísticas y análisis de datos, se identificó una mejora significativa en la primera etapa, pero no se lograron incrementos sustanciales en las etapas finales. El objetivo del proyecto fue optimizar la experiencia del usuario y aumentar la tasa de conversión, pero los resultados sugieren que se requieren ajustes adicionales para lograr un impacto mayor."
